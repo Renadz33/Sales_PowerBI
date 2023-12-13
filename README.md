@@ -16,4 +16,7 @@ Profit ratio by category: This insight not only helps in understanding revenue d
 
 By encapsulating these essential elements, the dashboard serves as a powerful tool for making informed decisions and strategic planning in the dynamic field of electronics sales.
 
+Dashboard Link: 
+https://app.powerbi.com/view?r=eyJrIjoiZWViMmUwM2ItODcxZi00YTAyLWE2MDctNDk1OWJkNDI4MjdmIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9
+
 <img width="728" alt="sales dashboard" src="https://github.com/Renadz33/Sales_PowerBI/assets/84646898/fb487fec-4220-41b6-8c81-3fdaa05a24c0">
